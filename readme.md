@@ -7,7 +7,7 @@ LEI Addon for WHMCS to automate LEI management, registration, Renewal and Transf
 
 ### Suggestions, Bugs, Issues, New Features
 You are highly welcome to send us requests for new features, suggestions, issues or any possible bugs found
-[Submission form](https://github.com/getlei/issues/new)
+[Submission form](https://github.com/getleicom/issues/new)
 
 ### License
 This project is licensed under the MIT License
