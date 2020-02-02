@@ -1,5 +1,5 @@
 ![alt text](https://my.gogetssl.com/assets/img/logo_for_github.png "Logo Title Text 1")
-# SSLCENTER WHMCS SSL Addon
+# GETLEI WHMCS LEI Addon
 LEI Addon for WHMCS to automate LEI management, registration, Renewal and Transfer
 
 ### Prerequisites
